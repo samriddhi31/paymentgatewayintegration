@@ -1,0 +1,79 @@
+body{
+	background-image: url("donate1.png")!important;
+	background-color: #cccccc;
+    margin: 0;
+    top: 0;
+    overflow: hidden;
+}
+.coins{
+margin: auto;
+position: relative;
+margin-top: 50px;
+height: 350px;
+width:550px;
+}
+.btn{
+    color: black;
+}
+.nav{
+ top: 0;
+  margin-top: 20px;
+}
+#icon{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+	background-color: grey;
+    border: solid black;
+    border-radius: 100px ;
+}
+.btn{
+    color: black;
+    margin: 10px 7px 14px;
+}
+.money{
+height: 400px;
+width: 650px;
+position: absolute;
+left: 50px;
+padding-top: 50px;
+text-align: center;
+}
+.don{
+    background-color: #FF616D;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 70px;
+    transition-duration: 0.4s;
+
+}
+.don:hover{
+    background-color: #FF616D;
+    color: white;
+}
+.but{
+    padding: auto;
+    margin-left: 850px;
+    margin-bottom: 20%;
+    padding-top: 50px ;
+    
+}
+.quote{
+    font-family: Arial, Helvetica, sans-serif;
+	color: white;
+    text-align: right;
+    padding-top: 100px;
+    padding-right: 60px;
+    font-size: 25px;
+}
+.sparks{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 80px;
+    position: absolute;
+    font-size: 150%;
+    padding-top: 20px;
+}

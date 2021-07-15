@@ -1,0 +1,67 @@
+body{
+	background-image: url("index1.png")!important;
+	background-color: #cccccc;
+    margin: 0;
+    top: 0;
+    overflow: hidden;
+}
+.coins{
+margin: auto;
+position: relative;
+margin-top: 50px;
+height: 350px;
+width:550px;
+}
+.btn{
+    color: grey;
+}
+.nav{
+ top: 0;
+  margin-top: 20px;
+}
+#icon{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    border: solid black;
+    border-radius: 100px ;
+}
+.btn{
+    color: grey;
+    margin: 10px 7px 14px;
+}
+.addy{
+    z-index: 1;
+}
+h1{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+.don{
+    background-color: grey;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 70px;
+    transition-duration: 0.4s;
+}
+.dona{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.don:hover{
+    background-color: #FF616D;
+    color: white;
+}
+.sparks{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 80px;
+    position: absolute;
+    font-size: 150%;
+    padding-top: 20px;
+}
